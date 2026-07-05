@@ -65,3 +65,54 @@ SQL analytical views transform transactional data into optimized datasets for re
 
 Power BI connects directly to these analytical views, enabling interactive dashboards focused on executive decision-making.
 
+## 🛠️ Technology Stack
+
+The project combines database modeling, data engineering, automation, analytics, and business intelligence technologies to simulate an enterprise SAP-inspired environment.
+
+| Technology | Purpose | Role in the Project |
+|------------|---------|---------------------|
+| **Python** | Data Generation & Automation | Generates realistic customers, orders, payments, deliveries and other transactional records. |
+| **Pandas** | Data Manipulation | Supports data processing and preparation during the automation phase. |
+| **Faker** | Synthetic Data Generation | Creates realistic business information for customers and transactions. |
+| **MySQL** | Relational Database | Stores all transactional ERP data. |
+| **SQL** | Data Query & Analytics | Responsible for analytical queries, KPIs and SQL Views. |
+| **Power BI** | Business Intelligence | Builds interactive dashboards and executive reports. |
+| **Git** | Version Control | Tracks project evolution and source code changes. |
+| **GitHub** | Project Repository | Hosts documentation, source code and project artifacts. |
+
+## 💡 Why These Technologies?
+
+The selected technologies were chosen to reproduce a complete Business Intelligence pipeline commonly found in enterprise environments.
+
+Python automates transactional data generation.
+
+MySQL provides a structured relational database similar to ERP systems.
+
+SQL transforms transactional records into analytical datasets.
+
+Power BI delivers interactive dashboards for strategic decision-making.
+
+Git and GitHub ensure version control and professional project documentation.
+
+## 🎯 Skills Demonstrated
+
+- Relational Database Modeling
+
+- SQL Development
+
+- Data Engineering Fundamentals
+
+- Python Automation
+
+- Business Intelligence
+
+- Dashboard Design
+
+- KPI Development
+
+- Data Visualization
+
+- ERP Business Processes
+
+- Business Analytics
+
