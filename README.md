@@ -4,17 +4,7 @@
 
 > Enterprise Business Intelligence Project inspired by SAP ERP environments.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
-
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.12-blue)  ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)  ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)  ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)  ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)  ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📑 Table of Contents
 
