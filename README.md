@@ -41,3 +41,27 @@ The project simulates the complete business workflow, from customer registration
 
 This approach demonstrates how data can be transformed into actionable business insights through SQL, Python automation, MySQL, and Power BI.
 
+![Business Scenario](images/Scenario.png)
+
+## 🏗️ Solution Architecture
+
+The solution was designed following a layered architecture commonly found in enterprise Business Intelligence projects.
+
+The workflow starts with transactional data stored in a relational database. Python scripts automatically generate realistic business data, which is then processed through SQL analytical views. Finally, Power BI consumes these views to build executive dashboards that support business decision-making.
+
+### Architecture Overview
+
+![Architecture](images/Architecture.png)
+
+### Architecture Description
+
+The project follows a layered Business Intelligence architecture inspired by SAP ERP environments.
+
+The relational database stores transactional information such as customers, orders, products, payments and deliveries.
+
+Python scripts automate the generation of realistic business records, simulating daily ERP operations.
+
+SQL analytical views transform transactional data into optimized datasets for reporting.
+
+Power BI connects directly to these analytical views, enabling interactive dashboards focused on executive decision-making.
+
