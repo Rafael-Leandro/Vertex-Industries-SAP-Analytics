@@ -129,3 +129,36 @@ This structure also enables the creation of optimized SQL Views for Business Int
 ## 📊 Entity Relationship Diagram
 
 The following diagram illustrates the relational database model used throughout the project.
+
+![Database Model](images/Database_Model.png)
+
+## 📋 Database Structure
+
+| Table | Description | Business Purpose | 
+|--------|-------------|-------------|
+| Customers | Stores customer registration information | Acts as the starting point of every commercial transaction |
+| Products | Stores products available for sale | Provides the product catalog used in sales orders |
+| Orders | Stores customer purchase orders | Represents the central business transaction within the ERP workflow |
+| Order_Items | Stores all products associated with each order | Creates the many-to-many relationship between Orders and Products |
+| Payments | Stores payment information | Supports financial reporting and payment tracking |
+| Deliveries | Stores shipment and delivery information | Supports logistics analysis and delivery performance indicators |
+| Inventory | Stores product stock levels | Provides the products stock level and warns when it reaches the minimum level |
+
+## 📌 Business Rules
+
+- A customer may place multiple orders.
+
+- Every order belongs to exactly one customer.
+
+- An order may contain multiple products.
+
+- Every product can appear in multiple orders.
+
+- Every order generates one payment record.
+
+- Every order generates one delivery record.
+
+- Payments may be Pending, Processing or Paid.
+
+- Deliveries may be Processing, In Transit or Delivered.
+
