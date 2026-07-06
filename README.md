@@ -116,3 +116,16 @@ Git and GitHub ensure version control and professional project documentation.
 
 - Business Analytics
 
+## 🗄️ Database Model
+
+The Vertex Industries database was designed following relational database principles commonly used in ERP systems.
+
+Its primary objective is to support the complete operational lifecycle of the company, including customer management, sales processing, inventory, financial transactions, and logistics.
+
+The data model was intentionally normalized to reduce redundancy, maintain data integrity, and simplify analytical processing.
+
+This structure also enables the creation of optimized SQL Views for Business Intelligence and reporting purposes.
+
+## 📊 Entity Relationship Diagram
+
+The following diagram illustrates the relational database model used throughout the project.
