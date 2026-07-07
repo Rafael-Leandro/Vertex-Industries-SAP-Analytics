@@ -162,3 +162,52 @@ The following diagram illustrates the relational database model used throughout 
 
 - Deliveries may be Processing, In Transit or Delivered.
 
+## 🤖 Python Automation
+
+Python was used to automate the generation of realistic business data, simulating the daily operations of an ERP system.
+
+Instead of relying on static CSV files, the project dynamically creates customers, products, orders, order items, payments, and deliveries while preserving the relationships between entities.
+
+This approach makes the dataset scalable, reproducible, and much closer to real enterprise environments.
+
+## ⚙️ Data Generation Process
+
+The automation follows a logical business sequence:
+
+1. Customer records are generated.
+2. Products are created with prices and costs.
+3. Sales orders are generated.
+4. Order items are associated with each order.
+5. Payment records are created.
+6. Delivery records are generated.
+7. Data is inserted into the MySQL database.
+
+## 📚 Python Libraries
+
+| Library | Purpose |
+|----------|----------|
+| Faker | Generates realistic company names, addresses and contact information |
+| Pandas | Data manipulation and preparation |
+| Random | Simulates business scenarios |
+| Datetime | Generates realistic business dates |
+
+## 🎯 Automation Outcome
+
+The automated data generation process allows the database to be rebuilt at any time with consistent and realistic business information.
+
+This approach reproduces enterprise data pipelines and eliminates the need for manually created datasets.
+
+## 🧠 Skills Demonstrated
+
+- Python Programming
+
+- Data Automation
+
+- Relational Data Generation
+
+- ETL Fundamentals
+
+- Data Engineering Concepts
+
+- ERP Process Simulation
+
