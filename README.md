@@ -327,3 +327,98 @@ The SQL Views provide several advantages for Business Intelligence:
 - Improved scalability
 - Reusable analytical datasets
 
+## 📊 Business Intelligence Dashboard
+
+The Power BI dashboard was designed to provide a complete view of Vertex Industries' business operations.
+
+The dashboards are divided into four analytical areas, allowing executives, managers, and analysts to monitor commercial performance, product profitability, financial operations, and logistics through interactive visualizations and business KPIs.
+
+## 📈 Executive Overview
+
+![Executive Overview](images/Overview.png)
+
+### Purpose
+
+Provides a high-level overview of the company's performance through strategic KPIs and executive indicators.
+
+This dashboard allows managers to quickly evaluate business performance and identify trends in revenue, profitability, regional sales, and customer activity.
+
+### Business Questions Answered
+
+- How much revenue did the company generate?
+
+- What is the average order value?
+
+- Which states generate the highest revenue?
+
+- Which business sectors contribute the most?
+
+- Is the company growing over time?
+
+## 💼 Commercial Analysis
+
+![Commercial Dashboard](images/Commercial.png)
+
+### Purpose
+
+Provides detailed analysis of customers, sales distribution and commercial performance.
+
+### Business Questions Answered
+
+- Who are the company's most valuable customers?
+
+- Which states generate the highest revenue?
+
+- Which industries purchase the most products?
+
+- Where should the sales team focus?
+
+## 📦 Product Analysis
+
+![Products Dashboard](images/Products.png)
+
+### Purpose
+
+Analyzes product performance, sales volume and profitability.
+
+### Business Questions Answered
+
+- Which products generate the highest revenue?
+
+- Which products are the most profitable?
+
+- Which categories perform better?
+
+- Which products should receive greater commercial attention?
+
+## 🚚 Operations Dashboard
+
+![Operations Dashboard](images/Operations.png)
+
+### Purpose
+
+Monitors operational performance related to payments and logistics.
+
+### Business Questions Answered
+
+- Are payments being processed correctly?
+
+- Which carrier performs best?
+
+- Are deliveries being completed on time?
+
+- What is the operational efficiency?
+
+## 🎯 Business Value
+
+The dashboard transforms transactional ERP data into actionable business insights.
+
+Executives can monitor strategic KPIs.
+
+Sales managers can analyze customer performance.
+
+Financial teams can track payment status.
+
+Operations managers can monitor logistics efficiency.
+
+The solution enables faster, data-driven decision-making across different business areas.
