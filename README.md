@@ -211,3 +211,119 @@ This approach reproduces enterprise data pipelines and eliminates the need for m
 
 - ERP Process Simulation
 
+## 📊 SQL Analytical Views
+
+To support Business Intelligence and executive reporting, a set of SQL analytical views was created on top of the transactional database.
+
+These views consolidate data from multiple tables, reducing query complexity and providing optimized datasets for Power BI.
+
+This architecture follows a common approach adopted in enterprise ERP environments, where analytical layers are separated from operational data.
+
+### 📈 vw_dashboard_executivo
+
+**Purpose**
+
+Provides high-level business indicators for executive dashboards.
+
+**Business Value**
+
+This view consolidates the main KPIs required by managers and executives, eliminating the need for complex calculations inside Power BI.
+
+**Main Indicators**
+
+- Total Revenue
+- Total Orders
+- Average Ticket
+- Total Customers
+
+### 💼 vw_vendas_comercial
+
+**Purpose**
+
+Consolidates customer, product and sales information into a single analytical dataset.
+
+**Business Value**
+
+Supports commercial analysis by combining sales transactions with customer and product information.
+
+**Main Analysis**
+
+- Revenue by Customer
+- Revenue by State
+- Revenue by Industry
+- Sales History
+- Customer Performance
+
+### 📦 vw_performance_produtos
+
+**Purpose**
+
+Aggregates product sales and profitability information.
+
+**Business Value**
+
+Allows managers to identify the best-selling and most profitable products.
+
+**Main Analysis**
+
+- Best Selling Products
+- Product Profitability
+- Revenue by Product
+- Product Ranking
+
+### 💰 vw_financeiro
+
+**Purpose**
+
+Centralizes financial information related to customer payments.
+
+**Business Value**
+
+Enables financial monitoring, payment analysis and cash flow indicators.
+
+**Main Analysis**
+
+- Payment Status
+- Revenue Collected
+- Payment Methods
+- Outstanding Payments
+
+### 🚚 vw_logistica
+
+**Purpose**
+
+Combines shipment and delivery information for logistics monitoring.
+
+**Business Value**
+
+Supports operational analysis and delivery performance evaluation.
+
+**Main Analysis**
+
+- Delivery Status
+- Average Delivery Time
+- Carrier Performance
+- Shipment Tracking
+
+## 📋 Analytical Views Summary
+
+| View | Purpose | Power BI Page |
+|------|---------|---------------|
+| **vw_dashboard_executivo** | Executive KPIs | Executive Overview |
+| **vw_vendas_comercial** | Commercial Analysis | Commercial |
+| **vw_performance_produtos** | Product Analysis | Products |
+| **vw_financeiro** | Financial Analysis | Operations |
+| **vw_logistica** | Logistics Analysis | Operations |
+
+## 🚀 Benefits of the Analytical Layer
+
+The SQL Views provide several advantages for Business Intelligence:
+
+- Simplified SQL queries
+- Better dashboard performance
+- Reduced data redundancy
+- Centralized business logic
+- Easier maintenance
+- Improved scalability
+- Reusable analytical datasets
+
