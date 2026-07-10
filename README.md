@@ -11,15 +11,14 @@
 - About
 - Business Scenario
 - Architecture
-- Technologies
+- Technology Stack
 - Database Model
 - Python Automation
-- SQL Analytics
-- Power BI Dashboard
-- Business KPIs
-- Project Structure
-- Installation
-- Future Improvements
+- SQL Analytical Views
+- Business Intelligence Dashboard
+- Project Highlights
+- How to run
+- About the Author
 
 ## 📖 About the Project
 
