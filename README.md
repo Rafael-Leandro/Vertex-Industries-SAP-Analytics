@@ -422,3 +422,165 @@ Financial teams can track payment status.
 Operations managers can monitor logistics efficiency.
 
 The solution enables faster, data-driven decision-making across different business areas.
+
+## 🌟 Project Highlights
+
+- End-to-End Business Intelligence Solution
+- SAP-Inspired ERP Data Model
+- Automated Data Generation with Python
+- Relational Database Design (MySQL)
+- Analytical SQL Views
+- Interactive Power BI Dashboards
+- Executive KPI Monitoring
+- Complete Technical Documentation
+
+# 🚀 How to Run
+
+Follow the steps below to set up and run the project locally.
+
+## 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/vertex-industries-sap-analytics.git
+```
+
+```bash
+cd vertex-industries-sap-analytics
+```
+
+---
+
+## 2️⃣ Create the Database
+
+Open MySQL Workbench and execute the scripts located in the `sql/` folder.
+
+Execution order:
+
+1. `create_database_tables.sql`
+2. `fill_tables.sql`
+
+---
+
+## 3️⃣ Generate Business Data
+
+Run the Python scripts located in the `python/` directory.
+
+Example:
+
+```bash
+python generate_customers.py
+
+python generate_orders.py
+
+python generate_order_items.py
+
+python generate_payments.py
+
+python generate_deliveries.py
+```
+
+---
+
+## 4️⃣ Import CSV files
+
+Import the CSV files created with python to their respective tables.
+
+```
+clientes.csv
+pedidos.csv
+itens_pedido.csv
+pagamentos.csv
+entregas.csv
+```
+
+---
+
+## 5️⃣ Generate Business Data
+
+Run the Python scripts located in the `python/` directory.
+
+Example:
+
+```bash
+python generate_customers.py
+
+python generate_products.py
+
+python generate_orders.py
+
+python generate_order_items.py
+
+python generate_payments.py
+
+python generate_deliveries.py
+```
+
+---
+
+## 6️⃣ Verify Database Population
+
+Open MySQL Workbench and execute:
+
+```sql
+SELECT COUNT(*) FROM customers;
+
+SELECT COUNT(*) FROM orders;
+
+SELECT COUNT(*) FROM products;
+```
+
+If everything seems to be correct then execute:
+
+1. `advanced_consultation.sql`
+2. `create_views.sql`
+
+---
+
+## 7️⃣ Open Power BI
+
+Open:
+
+```
+powerbi/Vertex_Industries.pbix
+```
+
+Connect the power bi with the database on MySQL Workbench.
+
+The dashboards will automatically load the latest information from MySQL.
+
+---
+
+## Expected Result
+
+After completing the setup, you will have access to:
+
+- Executive Dashboard
+- Commercial Dashboard
+- Product Dashboard
+- Operations Dashboard
+
+connected to a fully populated relational database generated automatically by Python.
+
+# 👨‍💻 About the Author
+
+Hi! I'm **Rafael Leandro**, a Systems Analysis and Development graduate with a specialization in Data Analytics.
+
+I am passionate about transforming data into business insights through SQL, Python, Power BI and Business Intelligence solutions.
+
+This project was developed to demonstrate an end-to-end analytics workflow, covering database modeling, Python automation, SQL development and executive dashboard creation inspired by SAP ERP environments.
+
+Currently, I am focused on expanding my knowledge in Data Analytics, Business Intelligence, Data Engineering and enterprise systems.
+
+My goal is to contribute to organizations by building scalable, data-driven solutions that support strategic decision-making.
+
+## 📫 Contact
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/rafael-leandro25](https://www.linkedin.com/in/rafael-leandro25/)
+
+- 💻 GitHub: [https://github.com/Rafael-Leandro](https://github.com/Rafael-Leandro)
+
+---
+
+⭐ If you found this project interesting, feel free to explore the repository and connect with me on LinkedIn.
+
+Thank you for visiting!
