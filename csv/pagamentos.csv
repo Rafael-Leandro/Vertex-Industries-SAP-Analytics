@@ -1,0 +1,306 @@
+id_pedido,forma_pagamento,valor_pago,data_pagamento,status_pagamento
+1,Cartao Corporativo,2400.0,2026-02-23,Processando
+2,Transferencia Bancaria,3500.0,2026-03-25,Processando
+3,Transferencia Bancaria,900.0,2026-04-07,Pago
+4,Cartao Corporativo,5200.0,2026-04-07,Processando
+5,Boleto,5600.0,2026-01-10,Pago
+6,Boleto,22900.0,2026-05-16,Pendente
+7,Transferencia Bancaria,7950.0,2026-04-21,Pendente
+8,Transferencia Bancaria,49200.0,2026-02-02,Pendente
+9,Boleto,39400.0,2025-12-03,Pago
+10,Transferencia Bancaria,77100.0,2026-03-27,Pago
+11,Cartao Corporativo,2100.0,2026-03-28,Processando
+12,Transferencia Bancaria,61300.0,2026-01-06,Pendente
+13,Transferencia Bancaria,67800.0,2026-05-12,Pendente
+14,PIX,70000.0,2026-03-25,Pago
+15,Transferencia Bancaria,43000.0,2026-03-25,Pago
+16,Cartao Corporativo,57900.0,2026-02-15,Processando
+17,Boleto,97000.0,2026-05-08,Pendente
+18,Cartao Corporativo,5400.0,2026-05-12,Pendente
+19,PIX,62100.0,2026-04-28,Pago
+20,PIX,29500.0,2026-04-01,Pago
+21,Boleto,30500.0,2026-01-02,Pendente
+22,Cartao Corporativo,75500.0,2025-11-27,Processando
+23,Cartao Corporativo,28800.0,2026-05-18,Pago
+24,Transferencia Bancaria,67350.0,2026-05-15,Pago
+25,Boleto,46700.0,2026-03-30,Pago
+26,Boleto,38300.0,2026-04-30,Pendente
+27,Cartao Corporativo,15300.0,2026-02-12,Processando
+28,Cartao Corporativo,61200.0,2026-01-02,Processando
+29,Transferencia Bancaria,28700.0,2026-03-06,Processando
+30,Transferencia Bancaria,7650.0,2026-02-20,Processando
+31,Cartao Corporativo,55600.0,2026-02-17,Pago
+32,Transferencia Bancaria,31100.0,2026-01-20,Pago
+33,Cartao Corporativo,107400.0,2026-01-04,Processando
+34,PIX,39050.0,2026-04-15,Pago
+35,Transferencia Bancaria,23000.0,2026-04-15,Pendente
+36,Cartao Corporativo,43800.0,2025-11-29,Processando
+37,Boleto,69200.0,2026-05-04,Pago
+38,Boleto,48400.0,2026-05-20,Processando
+39,Cartao Corporativo,56100.0,2026-01-03,Processando
+40,Cartao Corporativo,54400.0,2026-04-11,Pendente
+41,PIX,7900.0,2026-03-22,Pago
+42,Boleto,98250.0,2026-04-24,Processando
+43,Transferencia Bancaria,15350.0,2025-12-08,Pago
+44,PIX,21900.0,2026-02-03,Pago
+45,PIX,55900.0,2026-05-22,Pago
+46,PIX,41400.0,2026-03-21,Pago
+47,Transferencia Bancaria,78150.0,2026-04-09,Pago
+48,Cartao Corporativo,115900.0,2026-01-23,Processando
+49,Transferencia Bancaria,77900.0,2026-03-17,Processando
+50,Cartao Corporativo,38200.0,2026-04-05,Processando
+51,Transferencia Bancaria,10400.0,2026-02-02,Pago
+52,Boleto,20800.0,2025-11-26,Pago
+53,PIX,18000.0,2026-04-27,Pago
+54,Transferencia Bancaria,73800.0,2025-12-21,Processando
+55,Cartao Corporativo,29850.0,2026-03-13,Pendente
+56,Boleto,8100.0,2026-05-07,Pago
+57,Cartao Corporativo,29100.0,2025-11-27,Pendente
+58,Transferencia Bancaria,10300.0,2026-03-05,Processando
+59,Boleto,59800.0,2026-03-26,Processando
+60,Transferencia Bancaria,52400.0,2026-01-11,Pendente
+61,Cartao Corporativo,1350.0,2026-01-13,Pago
+62,Transferencia Bancaria,56600.0,2026-02-18,Pendente
+63,Transferencia Bancaria,19600.0,2026-02-02,Pendente
+64,Cartao Corporativo,125600.0,2026-05-10,Pago
+65,Boleto,4050.0,2025-12-30,Pendente
+66,Transferencia Bancaria,77900.0,2026-02-22,Pago
+67,Cartao Corporativo,49600.0,2026-02-24,Processando
+68,Transferencia Bancaria,5400.0,2026-02-18,Processando
+69,Cartao Corporativo,24100.0,2026-03-08,Pendente
+70,Boleto,27300.0,2026-04-08,Processando
+71,PIX,10800.0,2026-04-26,Pago
+72,Boleto,61100.0,2026-04-02,Processando
+73,Boleto,21600.0,2026-05-24,Pago
+74,Cartao Corporativo,122900.0,2026-02-11,Processando
+75,Cartao Corporativo,29800.0,2026-01-22,Pendente
+76,Boleto,34700.0,2026-05-16,Processando
+77,Transferencia Bancaria,70000.0,2026-04-03,Pendente
+78,Transferencia Bancaria,45000.0,2025-12-22,Pendente
+79,Cartao Corporativo,75700.0,2026-03-10,Processando
+80,Cartao Corporativo,57300.0,2026-01-08,Pago
+81,Boleto,74300.0,2025-12-10,Pago
+82,Transferencia Bancaria,6000.0,2025-12-08,Processando
+83,Boleto,85300.0,2026-03-03,Pendente
+84,Transferencia Bancaria,45700.0,2025-12-02,Pago
+85,Cartao Corporativo,24100.0,2026-05-20,Processando
+86,Cartao Corporativo,32900.0,2026-01-12,Pendente
+87,Transferencia Bancaria,28000.0,2026-02-06,Pago
+88,PIX,11100.0,2026-04-29,Pago
+89,Boleto,41300.0,2025-12-29,Processando
+90,Boleto,5600.0,2026-01-11,Pago
+91,Boleto,27600.0,2026-02-18,Processando
+92,Transferencia Bancaria,60500.0,2026-05-14,Pago
+93,Boleto,83000.0,2025-12-18,Pago
+94,Transferencia Bancaria,3500.0,2026-05-01,Pendente
+95,PIX,25500.0,2026-01-19,Pago
+96,Boleto,9600.0,2026-03-26,Pago
+97,Cartao Corporativo,81500.0,2026-04-17,Processando
+98,Cartao Corporativo,38000.0,2026-03-22,Pendente
+99,Cartao Corporativo,114800.0,2026-01-20,Pendente
+100,Transferencia Bancaria,5400.0,2026-01-21,Pendente
+101,Cartao Corporativo,26700.0,2026-02-09,Pago
+102,Transferencia Bancaria,67200.0,2026-03-26,Pendente
+103,PIX,53400.0,2026-04-30,Pago
+104,Boleto,1800.0,2026-02-07,Pendente
+105,PIX,25850.0,2025-12-24,Pago
+106,Boleto,18000.0,2026-04-07,Pendente
+107,PIX,18200.0,2026-04-12,Pago
+108,Transferencia Bancaria,13900.0,2026-04-15,Processando
+109,Transferencia Bancaria,36800.0,2026-05-11,Pago
+110,Cartao Corporativo,7400.0,2026-01-09,Pago
+111,Boleto,54450.0,2025-11-27,Pago
+112,Transferencia Bancaria,40300.0,2026-02-13,Processando
+113,Transferencia Bancaria,95800.0,2026-03-18,Pendente
+114,Transferencia Bancaria,56250.0,2026-02-11,Pago
+115,Boleto,57200.0,2026-02-02,Pago
+116,Boleto,29400.0,2026-01-29,Processando
+117,Boleto,36800.0,2026-04-11,Pago
+118,Cartao Corporativo,62650.0,2026-05-18,Pendente
+119,Cartao Corporativo,47700.0,2025-12-08,Pendente
+120,Boleto,11850.0,2025-12-19,Pago
+121,PIX,6300.0,2025-12-31,Pago
+122,Boleto,39300.0,2026-02-27,Pendente
+123,Transferencia Bancaria,10800.0,2026-01-25,Pago
+124,PIX,85850.0,2026-02-05,Pago
+125,Cartao Corporativo,45900.0,2026-05-08,Processando
+126,Transferencia Bancaria,38150.0,2026-03-04,Processando
+127,Boleto,66500.0,2026-04-20,Processando
+128,Transferencia Bancaria,53250.0,2026-05-01,Pago
+129,PIX,53850.0,2026-01-26,Pago
+130,PIX,27500.0,2026-04-15,Pago
+131,Transferencia Bancaria,43200.0,2026-03-11,Pendente
+132,Cartao Corporativo,40150.0,2026-02-18,Pendente
+133,Transferencia Bancaria,92000.0,2025-12-26,Processando
+134,Boleto,37200.0,2026-04-12,Pendente
+135,Boleto,47350.0,2026-02-14,Processando
+136,Boleto,40400.0,2026-01-06,Processando
+137,Boleto,46800.0,2026-03-22,Processando
+138,PIX,35100.0,2026-01-06,Pago
+139,Transferencia Bancaria,28000.0,2025-11-28,Pago
+140,Boleto,47250.0,2026-05-10,Processando
+141,Boleto,60900.0,2026-01-20,Pago
+142,Cartao Corporativo,31500.0,2026-04-11,Processando
+143,PIX,52400.0,2026-04-08,Pago
+144,PIX,5850.0,2026-01-18,Pago
+145,PIX,35600.0,2026-04-19,Pago
+146,Cartao Corporativo,44500.0,2025-12-03,Pendente
+147,PIX,15600.0,2026-05-11,Pago
+148,Transferencia Bancaria,7800.0,2026-02-20,Pendente
+149,PIX,9200.0,2026-01-10,Pago
+150,Boleto,61450.0,2026-04-04,Pendente
+151,PIX,69700.0,2026-01-25,Pago
+152,Boleto,59050.0,2026-03-23,Pendente
+153,Boleto,92300.0,2026-05-11,Processando
+154,Transferencia Bancaria,44350.0,2025-12-10,Pago
+155,PIX,123000.0,2026-04-19,Pago
+156,Transferencia Bancaria,38400.0,2026-04-20,Processando
+157,PIX,77000.0,2026-04-16,Pago
+158,Boleto,20550.0,2026-02-17,Pendente
+159,Transferencia Bancaria,87800.0,2026-01-10,Pago
+160,Boleto,47800.0,2026-02-06,Pendente
+161,Cartao Corporativo,21300.0,2026-04-15,Processando
+162,PIX,66600.0,2026-01-05,Pago
+163,Boleto,35550.0,2026-04-06,Pendente
+164,Boleto,95100.0,2026-05-12,Pago
+165,PIX,40200.0,2025-12-20,Pago
+166,PIX,58800.0,2026-04-14,Pago
+167,Cartao Corporativo,23100.0,2026-02-12,Pago
+168,PIX,73200.0,2025-12-01,Pago
+169,PIX,2800.0,2025-12-04,Pago
+170,Boleto,82100.0,2025-12-30,Pago
+171,Cartao Corporativo,3600.0,2026-03-16,Pendente
+172,Boleto,61300.0,2026-03-19,Pendente
+173,Boleto,84400.0,2026-04-10,Processando
+174,Transferencia Bancaria,4050.0,2026-02-15,Pago
+175,Transferencia Bancaria,39200.0,2026-01-29,Pago
+176,Transferencia Bancaria,19600.0,2025-12-17,Pendente
+177,PIX,101200.0,2026-02-07,Pago
+178,Cartao Corporativo,92800.0,2025-12-18,Pendente
+179,PIX,41300.0,2026-03-01,Pago
+180,Cartao Corporativo,12500.0,2026-04-21,Pago
+181,Cartao Corporativo,23200.0,2026-01-22,Pendente
+182,Boleto,9800.0,2026-01-11,Processando
+183,Transferencia Bancaria,25900.0,2026-02-15,Processando
+184,Boleto,48000.0,2026-02-15,Pago
+185,PIX,18050.0,2025-12-03,Pago
+186,Cartao Corporativo,19600.0,2025-12-13,Processando
+187,Transferencia Bancaria,21000.0,2026-05-17,Processando
+188,PIX,109900.0,2025-12-25,Pago
+189,Cartao Corporativo,54800.0,2026-02-14,Pago
+190,PIX,13800.0,2026-02-05,Pago
+191,PIX,87300.0,2026-05-10,Pago
+192,Cartao Corporativo,62200.0,2026-03-14,Pendente
+193,Boleto,83200.0,2026-01-21,Pendente
+194,PIX,52800.0,2026-03-05,Pago
+195,Cartao Corporativo,20200.0,2026-05-03,Pendente
+196,Cartao Corporativo,149200.0,2026-03-07,Pendente
+197,Boleto,63500.0,2026-03-18,Pendente
+198,Cartao Corporativo,12500.0,2026-01-28,Pago
+199,PIX,77600.0,2025-12-13,Pago
+200,Transferencia Bancaria,8400.0,2026-02-25,Processando
+201,Transferencia Bancaria,2100.0,2026-02-04,Pago
+202,Transferencia Bancaria,16100.0,2026-03-26,Processando
+203,Cartao Corporativo,18600.0,2026-02-13,Pendente
+204,PIX,29400.0,2026-05-03,Pago
+205,Boleto,36700.0,2026-03-02,Pendente
+206,Cartao Corporativo,83700.0,2025-12-07,Pago
+207,Transferencia Bancaria,62200.0,2026-04-14,Processando
+208,Boleto,45500.0,2025-12-08,Processando
+209,Transferencia Bancaria,55050.0,2026-05-14,Pendente
+210,Transferencia Bancaria,4500.0,2026-03-21,Pendente
+211,PIX,28500.0,2026-03-26,Pago
+212,Cartao Corporativo,43000.0,2026-02-03,Pago
+213,Transferencia Bancaria,77900.0,2026-03-25,Processando
+214,PIX,18900.0,2025-12-20,Pago
+215,PIX,93400.0,2026-05-11,Pago
+216,Cartao Corporativo,46700.0,2026-05-24,Pendente
+217,Transferencia Bancaria,55300.0,2026-04-01,Processando
+218,PIX,27900.0,2026-05-09,Pago
+219,PIX,4200.0,2025-12-17,Pago
+220,Transferencia Bancaria,14400.0,2026-04-16,Processando
+221,Boleto,4600.0,2026-02-25,Pago
+222,Boleto,62200.0,2026-03-01,Pendente
+223,PIX,43200.0,2026-03-04,Pago
+224,PIX,27800.0,2026-04-30,Pago
+225,Transferencia Bancaria,32200.0,2026-03-15,Processando
+226,Transferencia Bancaria,15600.0,2026-03-18,Pendente
+227,PIX,4500.0,2026-03-28,Pago
+228,Cartao Corporativo,30300.0,2026-05-16,Processando
+229,Transferencia Bancaria,24500.0,2026-05-19,Processando
+230,Cartao Corporativo,68500.0,2026-05-16,Pendente
+231,PIX,104500.0,2026-03-11,Pago
+232,Transferencia Bancaria,28900.0,2026-03-15,Pendente
+233,PIX,34800.0,2026-04-04,Pago
+234,Boleto,28100.0,2025-12-21,Pendente
+235,Transferencia Bancaria,41600.0,2026-03-17,Pago
+236,Cartao Corporativo,23800.0,2026-05-25,Pago
+237,PIX,64000.0,2026-05-03,Pago
+238,Boleto,37200.0,2026-04-23,Pago
+239,PIX,84300.0,2026-01-18,Pago
+240,Cartao Corporativo,51300.0,2025-12-31,Processando
+241,Cartao Corporativo,35000.0,2026-01-19,Pendente
+242,Boleto,25900.0,2026-04-16,Pago
+243,Transferencia Bancaria,37500.0,2026-01-27,Processando
+244,Cartao Corporativo,39400.0,2026-05-19,Pendente
+245,Transferencia Bancaria,32000.0,2025-12-18,Pendente
+246,PIX,71000.0,2026-03-13,Pago
+247,Cartao Corporativo,6300.0,2026-04-10,Pago
+248,Boleto,78000.0,2026-04-28,Processando
+249,Transferencia Bancaria,61650.0,2026-02-02,Pendente
+250,Boleto,56600.0,2026-03-03,Pendente
+251,PIX,43400.0,2026-01-28,Pago
+252,Cartao Corporativo,24000.0,2026-03-14,Pendente
+253,Transferencia Bancaria,28000.0,2026-03-19,Processando
+254,Cartao Corporativo,50850.0,2026-04-10,Pendente
+255,Cartao Corporativo,64200.0,2026-04-30,Processando
+256,Transferencia Bancaria,125200.0,2026-04-19,Pago
+257,Boleto,20100.0,2026-02-25,Pago
+258,PIX,39150.0,2026-01-21,Pago
+259,Transferencia Bancaria,21100.0,2026-03-07,Pago
+260,Transferencia Bancaria,48700.0,2026-03-05,Pago
+261,Boleto,14400.0,2026-01-06,Pendente
+262,Cartao Corporativo,34800.0,2026-02-26,Pago
+263,Transferencia Bancaria,100550.0,2026-01-16,Pendente
+264,Transferencia Bancaria,65500.0,2026-03-06,Pendente
+265,Cartao Corporativo,27500.0,2026-01-01,Pago
+266,Transferencia Bancaria,61200.0,2025-11-28,Pago
+267,Transferencia Bancaria,27200.0,2026-05-19,Pendente
+268,Boleto,92050.0,2026-03-17,Pendente
+269,PIX,34800.0,2026-04-15,Pago
+270,PIX,67300.0,2026-04-08,Pago
+271,Cartao Corporativo,42700.0,2026-03-01,Pendente
+272,PIX,60000.0,2026-01-23,Pago
+273,PIX,39200.0,2026-03-16,Pago
+274,Cartao Corporativo,28900.0,2026-01-10,Pago
+275,Cartao Corporativo,16400.0,2026-03-30,Pago
+276,Boleto,42150.0,2026-04-27,Pago
+277,Transferencia Bancaria,83300.0,2026-05-09,Pendente
+278,Cartao Corporativo,35800.0,2026-03-09,Pago
+279,Cartao Corporativo,6000.0,2025-12-09,Pago
+280,Cartao Corporativo,83200.0,2025-12-25,Processando
+281,Cartao Corporativo,24300.0,2026-04-11,Pago
+282,Cartao Corporativo,28000.0,2026-02-25,Pago
+283,Boleto,45800.0,2026-03-10,Pendente
+284,Transferencia Bancaria,5500.0,2026-03-06,Pendente
+285,Cartao Corporativo,900.0,2026-04-08,Pago
+286,Transferencia Bancaria,107900.0,2025-11-28,Pendente
+287,PIX,59200.0,2026-02-19,Pago
+288,PIX,31700.0,2026-04-16,Pago
+289,PIX,5850.0,2026-03-01,Pago
+290,Boleto,22400.0,2026-01-29,Processando
+291,Transferencia Bancaria,76300.0,2026-01-28,Pago
+292,PIX,59000.0,2026-02-22,Pago
+293,PIX,8100.0,2026-01-14,Pago
+294,Boleto,50000.0,2025-12-15,Pendente
+295,Boleto,14000.0,2026-04-08,Pago
+296,Cartao Corporativo,69800.0,2026-01-02,Pago
+297,Boleto,103100.0,2026-03-10,Pago
+298,Boleto,10500.0,2026-01-01,Pago
+299,Boleto,39050.0,2026-03-02,Processando
+300,Transferencia Bancaria,72400.0,2025-12-20,Pago
+301,Cartao Corporativo,3150.0,2026-01-20,Processando
+302,PIX,24000.0,2026-01-19,Pago
+303,Boleto,31500.0,2026-03-23,Pago
+304,Cartao Corporativo,94700.0,2026-05-17,Pago
+305,Boleto,51600.0,2026-04-19,Pago

@@ -1,0 +1,306 @@
+id_pedido,transportadora,data_envio,data_entrega,status_entrega
+1,RapidExpress,2026-04-03,NULL,Em Transporte
+2,PrimeLog,NULL,NULL,Separacao
+3,RapidExpress,NULL,NULL,Separacao
+4,CargoFly,NULL,NULL,Separacao
+5,PrimeLog,NULL,NULL,Separacao
+6,LogMaster,2026-04-09,2026-04-18,Entregue
+7,LogMaster,NULL,NULL,Separacao
+8,PrimeLog,2026-03-14,2026-04-03,Entregue
+9,LogMaster,2025-12-02,NULL,Em Transporte
+10,PrimeLog,NULL,NULL,Separacao
+11,PrimeLog,NULL,NULL,Separacao
+12,RapidExpress,2026-03-08,2026-05-17,Entregue
+13,CargoFly,2026-01-22,NULL,Em Transporte
+14,CargoFly,2026-03-15,NULL,Em Transporte
+15,CargoFly,2026-01-03,2026-01-30,Entregue
+16,RapidExpress,2025-12-28,2026-04-14,Entregue
+17,LogMaster,2026-01-09,NULL,Em Transporte
+18,CargoFly,2025-12-31,NULL,Em Transporte
+19,LogMaster,2026-02-21,2026-03-11,Entregue
+20,LogMaster,2026-03-12,NULL,Em Transporte
+21,RapidExpress,NULL,NULL,Separacao
+22,CargoFly,2026-03-26,2026-05-12,Entregue
+23,PrimeLog,2026-04-02,2026-05-19,Entregue
+24,CargoFly,2026-01-25,NULL,Em Transporte
+25,CargoFly,NULL,NULL,Separacao
+26,CargoFly,NULL,NULL,Separacao
+27,LogMaster,2026-04-24,NULL,Em Transporte
+28,PrimeLog,2025-12-31,NULL,Em Transporte
+29,PrimeLog,NULL,NULL,Separacao
+30,LogMaster,2026-02-03,NULL,Em Transporte
+31,RapidExpress,2026-03-23,2026-04-26,Entregue
+32,LogMaster,2026-02-02,NULL,Em Transporte
+33,RapidExpress,2025-12-23,2026-04-15,Entregue
+34,PrimeLog,NULL,NULL,Separacao
+35,CargoFly,2026-05-03,2026-05-19,Entregue
+36,CargoFly,2026-04-01,2026-04-02,Entregue
+37,LogMaster,2025-12-26,2026-04-08,Entregue
+38,LogMaster,2026-02-22,2026-03-14,Entregue
+39,LogMaster,2026-05-02,2026-05-04,Entregue
+40,LogMaster,NULL,NULL,Separacao
+41,RapidExpress,2026-02-27,NULL,Em Transporte
+42,CargoFly,NULL,NULL,Separacao
+43,PrimeLog,2026-01-14,NULL,Em Transporte
+44,LogMaster,2026-03-23,NULL,Em Transporte
+45,CargoFly,2026-01-12,2026-05-07,Entregue
+46,CargoFly,NULL,NULL,Separacao
+47,PrimeLog,2026-02-25,2026-05-26,Entregue
+48,RapidExpress,2026-04-06,NULL,Em Transporte
+49,RapidExpress,2026-03-01,2026-04-20,Entregue
+50,CargoFly,2026-02-24,NULL,Em Transporte
+51,LogMaster,2025-12-29,NULL,Em Transporte
+52,RapidExpress,2025-12-30,2026-04-23,Entregue
+53,LogMaster,NULL,NULL,Separacao
+54,RapidExpress,2025-12-03,NULL,Em Transporte
+55,LogMaster,2026-03-12,NULL,Em Transporte
+56,LogMaster,NULL,NULL,Separacao
+57,CargoFly,2026-04-16,2026-04-29,Entregue
+58,PrimeLog,2026-05-05,NULL,Em Transporte
+59,PrimeLog,NULL,NULL,Separacao
+60,PrimeLog,NULL,NULL,Separacao
+61,RapidExpress,2026-05-16,2026-05-23,Entregue
+62,CargoFly,2026-01-30,2026-03-15,Entregue
+63,RapidExpress,2026-01-09,2026-02-17,Entregue
+64,CargoFly,2026-03-27,2026-04-02,Entregue
+65,RapidExpress,2025-12-21,2026-04-22,Entregue
+66,LogMaster,2026-04-16,NULL,Em Transporte
+67,CargoFly,NULL,NULL,Separacao
+68,PrimeLog,2026-02-23,2026-04-28,Entregue
+69,LogMaster,2026-01-16,NULL,Em Transporte
+70,PrimeLog,2026-02-23,NULL,Em Transporte
+71,CargoFly,2026-02-09,2026-03-26,Entregue
+72,CargoFly,2026-02-19,NULL,Em Transporte
+73,PrimeLog,NULL,NULL,Separacao
+74,CargoFly,2026-03-18,2026-05-06,Entregue
+75,LogMaster,2026-01-05,NULL,Em Transporte
+76,CargoFly,2026-03-25,2026-04-08,Entregue
+77,RapidExpress,2025-12-12,NULL,Em Transporte
+78,LogMaster,2026-02-24,2026-04-29,Entregue
+79,LogMaster,NULL,NULL,Separacao
+80,PrimeLog,2026-04-16,NULL,Em Transporte
+81,PrimeLog,2026-01-16,NULL,Em Transporte
+82,PrimeLog,NULL,NULL,Separacao
+83,LogMaster,2026-03-18,NULL,Em Transporte
+84,LogMaster,2026-03-13,NULL,Em Transporte
+85,PrimeLog,2026-03-15,NULL,Em Transporte
+86,LogMaster,2025-12-15,NULL,Em Transporte
+87,PrimeLog,2025-11-26,NULL,Em Transporte
+88,CargoFly,2025-12-03,NULL,Em Transporte
+89,PrimeLog,NULL,NULL,Separacao
+90,RapidExpress,2026-03-29,NULL,Em Transporte
+91,RapidExpress,2025-12-15,NULL,Em Transporte
+92,PrimeLog,NULL,NULL,Separacao
+93,PrimeLog,NULL,NULL,Separacao
+94,CargoFly,NULL,NULL,Separacao
+95,CargoFly,2026-01-30,NULL,Em Transporte
+96,CargoFly,2026-04-30,NULL,Em Transporte
+97,PrimeLog,2026-03-21,2026-05-19,Entregue
+98,CargoFly,NULL,NULL,Separacao
+99,CargoFly,NULL,NULL,Separacao
+100,LogMaster,2026-01-28,NULL,Em Transporte
+101,PrimeLog,2026-02-12,2026-04-02,Entregue
+102,PrimeLog,2025-12-17,NULL,Em Transporte
+103,RapidExpress,NULL,NULL,Separacao
+104,PrimeLog,NULL,NULL,Separacao
+105,PrimeLog,NULL,NULL,Separacao
+106,RapidExpress,2025-11-29,NULL,Em Transporte
+107,LogMaster,NULL,NULL,Separacao
+108,LogMaster,2026-01-18,2026-04-05,Entregue
+109,LogMaster,NULL,NULL,Separacao
+110,LogMaster,2026-05-07,2026-05-16,Entregue
+111,LogMaster,2026-04-28,NULL,Em Transporte
+112,CargoFly,2025-11-30,NULL,Em Transporte
+113,CargoFly,2026-05-16,NULL,Em Transporte
+114,CargoFly,2026-03-10,NULL,Em Transporte
+115,RapidExpress,NULL,NULL,Separacao
+116,LogMaster,2025-12-07,2026-01-28,Entregue
+117,RapidExpress,NULL,NULL,Separacao
+118,CargoFly,2026-02-17,NULL,Em Transporte
+119,RapidExpress,2025-12-17,NULL,Em Transporte
+120,RapidExpress,2026-02-20,2026-04-23,Entregue
+121,RapidExpress,2026-04-17,2026-05-02,Entregue
+122,CargoFly,NULL,NULL,Separacao
+123,PrimeLog,NULL,NULL,Separacao
+124,CargoFly,2026-03-12,NULL,Em Transporte
+125,LogMaster,2026-05-10,2026-05-20,Entregue
+126,CargoFly,2026-04-18,2026-05-16,Entregue
+127,RapidExpress,2026-05-09,NULL,Em Transporte
+128,PrimeLog,2026-04-08,2026-05-24,Entregue
+129,CargoFly,NULL,NULL,Separacao
+130,PrimeLog,2026-04-02,NULL,Em Transporte
+131,PrimeLog,NULL,NULL,Separacao
+132,CargoFly,2026-04-03,NULL,Em Transporte
+133,CargoFly,NULL,NULL,Separacao
+134,RapidExpress,NULL,NULL,Separacao
+135,CargoFly,2025-12-08,2026-04-29,Entregue
+136,PrimeLog,NULL,NULL,Separacao
+137,CargoFly,2025-12-24,NULL,Em Transporte
+138,CargoFly,2026-05-08,NULL,Em Transporte
+139,LogMaster,2026-05-08,2026-05-17,Entregue
+140,RapidExpress,NULL,NULL,Separacao
+141,CargoFly,2026-03-30,2026-04-02,Entregue
+142,RapidExpress,NULL,NULL,Separacao
+143,PrimeLog,2026-04-22,NULL,Em Transporte
+144,RapidExpress,NULL,NULL,Separacao
+145,CargoFly,2026-01-10,2026-04-04,Entregue
+146,RapidExpress,2026-05-17,2026-05-25,Entregue
+147,LogMaster,NULL,NULL,Separacao
+148,CargoFly,2026-03-09,2026-04-28,Entregue
+149,PrimeLog,2026-04-27,NULL,Em Transporte
+150,LogMaster,2026-04-14,NULL,Em Transporte
+151,LogMaster,NULL,NULL,Separacao
+152,PrimeLog,NULL,NULL,Separacao
+153,CargoFly,2026-05-26,2026-05-26,Entregue
+154,LogMaster,2026-05-21,NULL,Em Transporte
+155,PrimeLog,NULL,NULL,Separacao
+156,CargoFly,NULL,NULL,Separacao
+157,CargoFly,2026-02-09,2026-03-12,Entregue
+158,CargoFly,NULL,NULL,Separacao
+159,PrimeLog,2026-01-22,2026-03-03,Entregue
+160,CargoFly,2026-04-02,NULL,Em Transporte
+161,RapidExpress,2026-05-25,NULL,Em Transporte
+162,RapidExpress,NULL,NULL,Separacao
+163,CargoFly,NULL,NULL,Separacao
+164,PrimeLog,2026-05-16,NULL,Em Transporte
+165,RapidExpress,2026-04-19,2026-05-17,Entregue
+166,CargoFly,2026-03-13,2026-04-09,Entregue
+167,LogMaster,NULL,NULL,Separacao
+168,PrimeLog,2026-01-08,NULL,Em Transporte
+169,RapidExpress,2026-05-24,2026-05-24,Entregue
+170,RapidExpress,2026-05-20,NULL,Em Transporte
+171,PrimeLog,NULL,NULL,Separacao
+172,RapidExpress,2026-03-30,2026-04-24,Entregue
+173,LogMaster,NULL,NULL,Separacao
+174,LogMaster,NULL,NULL,Separacao
+175,RapidExpress,NULL,NULL,Separacao
+176,RapidExpress,2026-05-12,NULL,Em Transporte
+177,CargoFly,2026-05-12,2026-05-17,Entregue
+178,CargoFly,2026-03-21,2026-05-08,Entregue
+179,RapidExpress,2026-03-02,NULL,Em Transporte
+180,PrimeLog,2026-04-16,2026-04-24,Entregue
+181,PrimeLog,NULL,NULL,Separacao
+182,CargoFly,2026-05-23,NULL,Em Transporte
+183,LogMaster,NULL,NULL,Separacao
+184,LogMaster,2026-03-05,NULL,Em Transporte
+185,RapidExpress,2025-12-30,2026-05-22,Entregue
+186,PrimeLog,NULL,NULL,Separacao
+187,PrimeLog,NULL,NULL,Separacao
+188,PrimeLog,2025-11-27,NULL,Em Transporte
+189,RapidExpress,2025-12-23,NULL,Em Transporte
+190,CargoFly,2026-01-03,2026-03-15,Entregue
+191,RapidExpress,2026-03-25,2026-04-08,Entregue
+192,LogMaster,2026-05-05,2026-05-05,Entregue
+193,PrimeLog,2025-12-18,2025-12-20,Entregue
+194,LogMaster,2026-01-20,2026-02-19,Entregue
+195,PrimeLog,NULL,NULL,Separacao
+196,RapidExpress,2026-05-11,2026-05-16,Entregue
+197,RapidExpress,2025-11-28,2026-01-28,Entregue
+198,CargoFly,NULL,NULL,Separacao
+199,PrimeLog,2026-03-14,2026-05-22,Entregue
+200,RapidExpress,NULL,NULL,Separacao
+201,PrimeLog,2026-04-24,NULL,Em Transporte
+202,CargoFly,2026-01-09,NULL,Em Transporte
+203,RapidExpress,2026-05-20,2026-05-23,Entregue
+204,RapidExpress,NULL,NULL,Separacao
+205,PrimeLog,2026-04-19,2026-05-21,Entregue
+206,CargoFly,NULL,NULL,Separacao
+207,CargoFly,NULL,NULL,Separacao
+208,CargoFly,2026-02-14,NULL,Em Transporte
+209,CargoFly,NULL,NULL,Separacao
+210,CargoFly,2025-12-16,2026-03-10,Entregue
+211,CargoFly,2026-02-01,NULL,Em Transporte
+212,RapidExpress,2025-12-29,NULL,Em Transporte
+213,LogMaster,NULL,NULL,Separacao
+214,RapidExpress,2026-02-14,2026-05-23,Entregue
+215,RapidExpress,2026-04-19,2026-05-20,Entregue
+216,RapidExpress,2026-01-10,NULL,Em Transporte
+217,PrimeLog,NULL,NULL,Separacao
+218,PrimeLog,2026-03-28,2026-05-25,Entregue
+219,CargoFly,2026-01-06,NULL,Em Transporte
+220,PrimeLog,2026-05-03,NULL,Em Transporte
+221,CargoFly,2026-01-02,NULL,Em Transporte
+222,CargoFly,2025-11-27,NULL,Em Transporte
+223,PrimeLog,NULL,NULL,Separacao
+224,LogMaster,NULL,NULL,Separacao
+225,PrimeLog,2026-03-11,2026-04-10,Entregue
+226,CargoFly,NULL,NULL,Separacao
+227,PrimeLog,2026-04-01,NULL,Em Transporte
+228,PrimeLog,2026-05-05,2026-05-09,Entregue
+229,LogMaster,NULL,NULL,Separacao
+230,CargoFly,2026-05-23,NULL,Em Transporte
+231,LogMaster,2026-02-05,NULL,Em Transporte
+232,LogMaster,2026-01-22,2026-03-30,Entregue
+233,RapidExpress,NULL,NULL,Separacao
+234,RapidExpress,2026-04-24,NULL,Em Transporte
+235,LogMaster,2026-03-01,NULL,Em Transporte
+236,CargoFly,2026-01-20,2026-02-07,Entregue
+237,CargoFly,NULL,NULL,Separacao
+238,RapidExpress,NULL,NULL,Separacao
+239,RapidExpress,NULL,NULL,Separacao
+240,CargoFly,NULL,NULL,Separacao
+241,CargoFly,2026-01-29,2026-02-08,Entregue
+242,CargoFly,2026-02-28,2026-03-10,Entregue
+243,CargoFly,NULL,NULL,Separacao
+244,LogMaster,2026-03-15,NULL,Em Transporte
+245,CargoFly,2026-04-19,NULL,Em Transporte
+246,CargoFly,NULL,NULL,Separacao
+247,LogMaster,NULL,NULL,Separacao
+248,PrimeLog,2026-05-16,NULL,Em Transporte
+249,PrimeLog,2026-04-01,2026-05-03,Entregue
+250,PrimeLog,NULL,NULL,Separacao
+251,RapidExpress,NULL,NULL,Separacao
+252,RapidExpress,NULL,NULL,Separacao
+253,PrimeLog,2025-11-29,NULL,Em Transporte
+254,PrimeLog,2026-01-05,2026-03-26,Entregue
+255,CargoFly,2026-01-25,2026-04-27,Entregue
+256,PrimeLog,2026-05-25,2026-05-26,Entregue
+257,LogMaster,NULL,NULL,Separacao
+258,RapidExpress,NULL,NULL,Separacao
+259,RapidExpress,2026-01-21,NULL,Em Transporte
+260,LogMaster,2026-05-24,2026-05-26,Entregue
+261,CargoFly,2026-04-05,2026-05-04,Entregue
+262,LogMaster,NULL,NULL,Separacao
+263,CargoFly,2026-03-22,NULL,Em Transporte
+264,CargoFly,2026-03-25,NULL,Em Transporte
+265,CargoFly,NULL,NULL,Separacao
+266,RapidExpress,NULL,NULL,Separacao
+267,RapidExpress,NULL,NULL,Separacao
+268,CargoFly,NULL,NULL,Separacao
+269,LogMaster,2026-05-13,NULL,Em Transporte
+270,PrimeLog,NULL,NULL,Separacao
+271,CargoFly,2025-11-27,NULL,Em Transporte
+272,LogMaster,2026-02-27,NULL,Em Transporte
+273,PrimeLog,2026-04-01,NULL,Em Transporte
+274,RapidExpress,2026-04-18,2026-05-06,Entregue
+275,PrimeLog,2026-04-05,2026-05-13,Entregue
+276,RapidExpress,2026-05-10,NULL,Em Transporte
+277,LogMaster,2025-12-20,2026-04-08,Entregue
+278,LogMaster,NULL,NULL,Separacao
+279,LogMaster,NULL,NULL,Separacao
+280,RapidExpress,2026-01-08,NULL,Em Transporte
+281,CargoFly,2026-05-10,2026-05-12,Entregue
+282,CargoFly,NULL,NULL,Separacao
+283,CargoFly,2026-05-26,2026-05-26,Entregue
+284,CargoFly,NULL,NULL,Separacao
+285,RapidExpress,2026-04-02,2026-04-05,Entregue
+286,RapidExpress,NULL,NULL,Separacao
+287,LogMaster,2026-05-10,NULL,Em Transporte
+288,PrimeLog,2026-01-10,2026-03-10,Entregue
+289,LogMaster,2025-11-26,NULL,Em Transporte
+290,CargoFly,NULL,NULL,Separacao
+291,RapidExpress,2026-03-05,NULL,Em Transporte
+292,CargoFly,NULL,NULL,Separacao
+293,CargoFly,2025-12-07,NULL,Em Transporte
+294,LogMaster,2026-02-22,2026-05-07,Entregue
+295,CargoFly,2026-04-06,2026-05-04,Entregue
+296,CargoFly,2026-03-24,NULL,Em Transporte
+297,LogMaster,2026-01-16,2026-01-21,Entregue
+298,LogMaster,2026-04-19,NULL,Em Transporte
+299,CargoFly,2026-03-28,2026-05-08,Entregue
+300,PrimeLog,2025-11-26,2026-05-12,Entregue
+301,CargoFly,NULL,NULL,Separacao
+302,RapidExpress,NULL,NULL,Separacao
+303,PrimeLog,2026-04-20,2026-05-15,Entregue
+304,LogMaster,2025-12-18,NULL,Em Transporte
+305,CargoFly,2026-01-30,2026-04-10,Entregue

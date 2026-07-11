@@ -1,0 +1,101 @@
+id_cliente,nome_cliente,cnpj,cidade,estado,setor
+1,TechNova Solutions,12.345.678/0001-10,Sao Paulo,SP,Tecnologia
+2,LogiSmart Distribuicao,98.765.432/0001-55,Rio de Janeiro,RJ,Logistica
+3,Mercado Digital Express,45.321.789/0001-22,Belo Horizonte,MG,Varejo
+4,Alpha Retail Group,11.222.333/0001-44,Curitiba,PR,Varejo
+5,Vision Industrial Tech,55.666.777/0001-88,Porto Alegre,RS,Industria
+6,Aether Mind Systems,10.785.369/0001-00,Aruja,SP,Tecnologia
+7,Synaptech,29.643.857/0001-01,Barueri,SP,Tecnologia
+8,CogniData,13.457.629/0001-07,Caieiras,SP,Tecnologia
+9,Vortex AI,08.451.976/0001-92,Carapicuiba,SP,Tecnologia
+10,Neuralis,02.631.798/0001-03,Cotia,SP,Tecnologia
+11,Cyber Ward Solutions,61.409.287/0001-00,Angra dos Reis,RJ,Tecnologia
+12,Aegis Net,58.042.637/0001-20,Niteroi,RJ,Tecnologia
+13,Krypton Core,84.650.329/0001-98,Cabo Frio,RJ,Tecnologia
+14,Veridion,51.867.302/0001-00,Petropolis,RJ,Tecnologia
+15,Nexus Shield,25.086.493/0001-55,Saquarema,RJ,Tecnologia
+16,Stratosphere Tech,60.841.329/0001-07,Belo Horizonte,MG,Tecnologia
+17,OmniCode Technologies,63.529.081/0001-31,Uberlandia,MG,Tecnologia
+18,Atlas Cloud,53.067.429/0001-62,Contagem,MG,Tecnologia
+19,Cronos Software,67.439.180/0001-83,Juiz de Fora,MG,Tecnologia
+20,SaaSify Digital,05.297.418/0001-26,Ouro Preto,MG,Tecnologia
+21,EcoPulse Tech,75.310.264/0001-40,Porto Alegre,RS,Tecnologia
+22,Quantum Leap,10.635.972/0001-06,Caxias do Sul,RS,Tecnologia
+23,NovaTerra Labs,48.961.735/0001-08,Pelotas,RS,Tecnologia
+24,Lumen Inovations,42.831.650/0001-29,Canoas,RS,Tecnologia
+25,LogiPulse,14.958.620/0001-42,Vitoria,ES,Logistica
+26,NexuRoute,85.091.736/0001-75,Linhares,ES,Logistica
+27,Veloce Logistica,92.483.657/0001-75,Sao Mateus,ES,Logistica
+28,Routify,69.105.432/0001-63,Aracruz,ES,Logistica
+29,AeroFlux Transportes,16.790.543/0001-90,Guarapari,ES,Logistica
+30,Ancora Distribuicao,23.859.074/0001-83,Joinville,SC,Logistica
+31,Pilar Logistica Integrada,30.149.726/0001-51,Itajai,SC,Logistica
+32,TerraFirme Transportes,34.610.298/0001-73,Florianopolis,SC,Logistica
+33,Global Alliance,05.983.241/0001-11,Blumenau,SC,Logistica
+34,Vanguarda Store,05.389.273/0001-11,Camboriu,SC,Logistica
+35,Meridiano Transports,07.142.341/0001-11,Londrina,PR,Logistica
+36,MSI Cargo,15.382.097/0001-11,Maringa,PR,Logistica
+37,PH Supply Chain,73.146.208/0001-97,Ponta Grossa,PR,Logistica
+38,Navegantes Logistica,35.069.274/0001-11,Curitiba,PR,Logistica
+39,Latitude 360,72.364.519/0001-60,Cascavel,PR,Logistica
+40,Seta Express,04.196.853/0001-00,Montes Claros,MG,Logistica
+41,Forte Deliver,91.758.603/0001-02,Belo Horizonte,MG,Logistica
+42,JetFret,25.049.736/0001-85,Contagem,MG,Logistica
+43,Astro Distribuicao,13.965.782/0001-45,Uberaba,MG,Logistica
+44,Visione Centrale,95.430.268/0001-70,Campinas,SP,Varejo
+45,Viale Della Moda,91.862.448/0001-68,Sorocaba,SP,Varejo
+46,Ponto Icone,01.943.578/0001-44,Ribeirao Preto,SP,Varejo
+47,Vanguarda Express,05.967.278/0001-32,Sao Paulo,SP,Varejo
+48,Lumina Variedades,79.381.065/0001-84,Nova Friburgo,RJ,Varejo
+49,Veste Rio,90.153.847/0001-07,Duque de Caxias,RJ,Varejo
+50,Atelie Urbano,04.716.329/0001-04,Rio de Janeiro,RJ,Varejo
+51,Alura Store,08.671.932/0001-05,Saquarema,RJ,Varejo
+52,Zenite Style,82.143.760/0001-12,Teresopolis,RJ,Varejo
+53,Aura Lar,27.139.564/0001-66,Montes Claros,MG,Varejo
+54,Terra Decora,91.064.572/0001-90,Varginha,MG,Varejo
+55,Asgard Bistro,72.584.136/0001-05,Belo Horizonte,MG,Varejo
+56,Aloe Home,47.591.680/0001-29,Pouso Alegre,MG,Varejo
+57,Mercatto Verde,82.165.749/0001-53,Balsa Nova,PR,Varejo
+58,Bouncy Star Conveniencia,32.914.068/0001-72,Campo Bonito,PR,Varejo
+59,Essenza Mercado,72.941.530/0001-45,Curitiba,PR,Varejo
+60,Rota do Sabor,90.816.547/0001-52,Foz do Iguacu,PR,Varejo
+61,Proxima Parada,12.370.856/0001-38,Grandes Rios,PR,Varejo
+62,Inovatech Industria Global,12.037.854/0001-35,São Jose,SC,Industria
+63,Nexura Sistemas Industriais,27.541.093/0001-18,Aguas Mornas,SC,Industria
+64,TouchSmart Metais,38.206.759/0001-06,Palhoca,SC,Industria
+65,AuraMec Automacao,41.508.963/0001-88,Criciuma,SC,Industria
+66,Altus Componentes Industriais,65.082.197/0001-09,Florianopolis,SC,Industria
+67,Serrana Siderurgia e Fundicao,19.732.084/0001-86,Novo Hamburgo,RS,Industria
+68,Forja Imperial S.A.,39.076.214/0001-55,Alvorada,RS,Industria
+69,Pilar Norte Metalurgica,59.362.170/0001-69,Sao Leopoldo,RS,Industria
+70,Titanium Usinagem Solida,02.781.396/0001-87,Porto Alegre,RS,Industria
+71,Quartz Mineracao,93.027.568/0001-87,Passo Fundo,RS,Industria
+72,EcoMatrizes Tech,69.073.854/0001-02,Betim,MG,Industria
+73,TerraViva Agroindustrias,21.574.803/0001-20,Sete Lagoas,MG,Industria
+74,BioForte Processamento,19.360.528/0001-21,Belo Horizonte,MG,Industria
+75,VerdeMec Solucoes Industriais,72.503.618/0001-85,Contagem,MG,Industria
+76,Prisma Manufatura Integrada,35.172.089/0001-58,Macae,RJ,Industria
+77,Atlas Fundicoes Globais,89.630.427/0001-87,Nova Iguacu,RJ,Industria
+78,Apex Productions,51.749.250/0001-20,Rio de Janeiro,RJ,Industria
+79,Limestone Soldagem,76.248.305/0001-89,Sao Joao de Meriti,RJ,Industria
+80,Hyper Pharma Ltda.,37.304.968/0001-04,Duque de Caxias,RJ,Industria
+81,Vanguard Capital,87.623.451/0001-63,Adamantina,SP,Financeiro
+82,Ancore Financas,10.674.398/0001-03,Araraquara,SP,Financeiro
+83,Consolidar Wealth Management,57.019.842/0001-02,Botucatu,SP,Financeiro
+84,Patrimonium Asset,21.046.789/0001-91,Sao Paulo,SP,Financeiro
+85,Sauber Investimentos,74.531.296/0001-03,Campinas,SP,Financeiro
+86,Inove Payment,34.705.219/0001-08,Vila Velha,ES,Financeiro
+87,Lexus Finance,57.940.283/0001-79,Cariacica,ES,Financeiro
+88,Avalon Digital,24.357.691/0001-43,Vitoria,ES,Financeiro
+89,Velvet Financial Inc.,69.207.385/0001-69,Linhares,ES,Financeiro
+90,Goldguard Credito,19.257.034/0001-94,Guarapari,ES,Financeiro
+91,Growth Investimentos,43.152.978/0001-81,Rio de Janeiro,RJ,Financeiro
+92,Vertice Capital,75.634.920/0001-60,Niteroi,RJ,Financeiro
+93,Horizonte Previdencia,48.921.703/0001-89,Campo Grande,RJ,Financeiro
+94,Magnus Gestao Financeira,29.803.745/0001-70,Sao Goncalo,RJ,Financeiro
+95,Paramount Bank Corp.,81.632.794/0001-08,Duque de Caxias,RJ,Financeiro
+96,Legacy Gestao,04.352.961/0001-16,Curitiba,PR,Financeiro
+97,Kiron Financas,15.896.043/0001-74,Londrina,PR,Financeiro
+98,Zypper Asset,26.301.574/0001-93,Maringa,PR,Financeiro
+99,Sparkle Holdings,37.495.068/0001-07,Ponta Grossa,PR,Financeiro
+100,Credence System,96.854.701/0001-67,Cascavel,PR,Financeiro
